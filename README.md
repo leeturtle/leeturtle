@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <p>Welcome to my page!😙 </br> I'm Suhyun Lee, Senior Student from <a href="https://comedu.skku.edu/comedu/index.do"><b>SKKU</b>,<br>
 </a>  Departmant of Computer Education, Sungkyunkwan University <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fcafefiles.naver.net%2FMjAxNjEwMDhfNTQg%2FMDAxNDc1ODkwNzMyOTE4.oXdbJ7fdOnwYuhPw1IttOWjzejG6qwAbHzoSgN0Vhq4g.81i4fW-PqjC2km_vk1vo76pcEIhKZseKQi6HpY8NA_sg.PNG.ring_univ%2F%25BC%25BA%25B1%25D5%25B0%25FC%25B4%25EB.png&type=sc960_832" width="17" height="20"/><br>
 currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
-My notion experience portpolio is here ➡️
-<a href="https://thinkable-alphabet-026.notion.site/I-m-Suhyun-Lee-54c3fb6de31a4ead8eba07f2e5d8f39a?pvs=4"><b> Experience portpolio,suhyun Lee </b></a> </p>
+💚 My notion experience portpolio is here ➡️
+<a href="https://thinkable-alphabet-026.notion.site/I-m-Suhyun-Lee-54c3fb6de31a4ead8eba07f2e5d8f39a?pvs=4"><b> suhyun Lee </b></a> </p>
 
 ---
 
