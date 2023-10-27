@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1> Hi there! Nice to see you 👋</h1>
 
 <!--
 **leeturtle/leeturtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# profile
-
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p align="center"><img src="https://github.com/leeturtle/profile/blob/de80b1fab032372235e387a9a28008fdaf0f87b1/me.png" width="260"/></p>
 <p align="center"><a href="hyuns0807@naver.com">hyuns0807@naver.com</a></p>
