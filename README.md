@@ -60,16 +60,16 @@ currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/219548
   <tbody>
 <thead align="center">
 	<tr>
-      <td><a href="hhhhttps://github.com/Jeong-Eul/23-2_Research"><b>Early Prediction of Circulatory Failure via Contrastive Learning</b></a></td>
+      <td><a href="hhhhttps://github.com/Jeong-Eul/23-2_Research"><b>2023 ABB Hackathon (AI, 빅데이터, 블록체인 해커톤) </b></a></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University</center></td>
-      <td>MIMIC-IV PhysioNet, eICU Collaborative Research Database</td>
+      <td>대구광역시, eICU Collaborative Research Database</td>
       <td>April. 2023 ~ Present</td>
       <td>Preprocessing, Developing</td>
     </tr>
     	<tr>
-      <td><a href="hhhhhttps://www.notion.so/INFORMS-2022-presentation-01afff4ab13e475392906ca84b4566a7"><b>Presentation in INFORMS 2022, Indianapolis, USA</b></a></td>
+      <td><a href="hhhhhttps://www.notion.so/INFORMS-2022-presentation-01afff4ab13e475392906ca84b4566a7"><b>Presentation about Metaverse </b></a></td>
       <td><center>CDSLab, Industrial and Management, Myongji University</td>
-      <td>Kaggle</td>
+      <td>경북도청</td>
       <td>Jan. 2022 ~<br>Oct. 2022</td>
       <td>Developing</td>
     </tr>
