@@ -60,42 +60,42 @@ currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/219548
   <tbody>
 <thead align="center">
 	<tr>
-      <td><a href="https://github.com/Jeong-Eul/23-2_Research"><b>Early Prediction of Circulatory Failure via Contrastive Learning</b></a></td>
+      <td><a href="hhhhttps://github.com/Jeong-Eul/23-2_Research"><b>Early Prediction of Circulatory Failure via Contrastive Learning</b></a></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University</center></td>
       <td>MIMIC-IV PhysioNet, eICU Collaborative Research Database</td>
       <td>April. 2023 ~ Present</td>
       <td>Preprocessing, Developing</td>
     </tr>
     	<tr>
-      <td><a href="https://www.notion.so/INFORMS-2022-presentation-01afff4ab13e475392906ca84b4566a7"><b>Presentation in INFORMS 2022, Indianapolis, USA</b></a></td>
+      <td><a href="hhhhhttps://www.notion.so/INFORMS-2022-presentation-01afff4ab13e475392906ca84b4566a7"><b>Presentation in INFORMS 2022, Indianapolis, USA</b></a></td>
       <td><center>CDSLab, Industrial and Management, Myongji University</td>
       <td>Kaggle</td>
       <td>Jan. 2022 ~<br>Oct. 2022</td>
       <td>Developing</td>
     </tr>
 	  <tr>
-      <td><a href="https://www.notion.so/4f04574b0ad7447bb97b551ff80e67e8?pvs=4"><b>서울빅데이터개발</b></a></td>
+      <td><a href="hhhhhttps://www.notion.so/4f04574b0ad7447bb97b551ff80e67e8?pvs=4"><b>서울빅데이터개발</b></a></td>
       <td><center>CDSLab, Industrial and Management, Myongji University</center></td>
       <td>서울특별시</td>
       <td>Jan. 2022 ~ Mar. 2022</td>
       <td>Preprocessing, Developing</td>
     </tr>
    	 <tr>
-      <td><a href="https://www.notion.so/a323f74c6e144f7f94d546757d63bc6e?pvs=4"><b>반도체 장비 데이터를 이용한 이상 조기 진단</b></a></td>
+      <td><a href="hhhhhttps://www.notion.so/a323f74c6e144f7f94d546757d63bc6e?pvs=4"><b>반도체 장비 데이터를 이용한 이상 조기 진단</b></a></td>
       <td><center>CDSLab, Industrial and Management, Myongji University</center></td>
       <td>(주)PSK</td>
       <td>Sep. 2021 ~ Dec. 2021</td>
       <td>Experiment</td>
     </tr>
 	  <tr>
-      <td><a href="https://www.notion.so/a94bda26bcee49b9b4da473cfa31d28b?pvs=4"><b>기계학습 기반 이종데이터 분류 알고리즘 개발</b></a></td>
+      <td><a href="hhhhhttps://www.notion.so/a94bda26bcee49b9b4da473cfa31d28b?pvs=4"><b>기계학습 기반 이종데이터 분류 알고리즘 개발</b></a></td>
       <td>CDSLab, Industrial and Management, Myongji University</td>
       <td>KISTI</td>
       <td>April. 2022 ~ Oct. 2022</td>
       <td>Preprocessing, Developing</td>	  
     </tr>
  	  <tr>
-      <td><a href="https://www.notion.so/2022-a82a1e1a77774d079a7087826a38a326?pvs=4"><b>2022 빅콘테스트 데이터 분석 퓨처스 부문 우수상</b></a></td>
+      <td><a href="hhhhhttps://www.notion.so/2022-a82a1e1a77774d079a7087826a38a326?pvs=4"><b>2022 빅콘테스트 데이터 분석 퓨처스 부문 우수상</b></a></td>
       <td>FEILD</td>
       <td>2022빅콘테스트, (주)FINDA</td>
       <td>Aug. 2022 ~ Dec. 2022</td>
@@ -109,15 +109,15 @@ currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/219548
        
 <h3>🔔My latest posts</h3>
 <ul>
-  <li><a href="https://datascience0321.tistory.com/37"><b>📔 About Circulatory Failure</b></a><br/><i>domain knowledge for Early prediction of Circulatory Failure via Supervised contrastive learning research</i></li>
-  <li><a href="https://github.com/Jeong-Eul/Model-based-Optimization/blob/main/summary.md"><b>📒 [Review] Conservative Objective Models for Effective Offline Model-Based Optimization</b></a><br/><i>For Paper Review and Lab meeting presentation</i></li>
-  <li><a href="https://datascience0321.tistory.com/34"><b>📔 Domain Adaptation in Computer Vision: Everything You Need to Know - Korean Version</b></a><br/><i>Posted for 20230806 BOAZ ADV seminar</i></li>
-  <li><a href="https://github.com/Jeong-Eul/Time2Vec/blob/main/Summary.md"><b>📒 [Review] Time2Vec: Learning a Vector Representation of Time </b></a><br/><i>Paper Review and implementation</i></li>
-  <li><a href="https://github.com/Jeong-Eul/CEHR-BERT/blob/main/Summary.md"><b>❤️ CEHR-BERT:Incorperating temporal information from structured EHR data to improve prediction tasks </b></a><br/><i>Paper Review and developing research idea</i></li>
-  <li><a href="https://datascience0321.tistory.com/33"><b>😊 How to resolve MemoryError when creating a pivot table in Python.</b></a><br/><i>error solved. </i></li>
-  <li><a href="https://datascience0321.tistory.com/32"><b>😊 To create a virtual environment for Jupyter Notebook</b></a><br/><i>because I keep forgetting how to do it and need a reminder.</i></li>
-  <li><a href="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/Paper/BEHRT/REVIEW.md"><b>❤️ BEHRT: Transformer for Electronic Health Records</b></a><br/><i>Case study for research of Healthcare Machine Learning. </i></li>	
-  <li><a href="https://github.com/Jeong-Eul/Data-Mining-Study/blob/Healthcare-research/Paper/circEWS/review.md"><b>❤️ Early prediction of circulatory failure in the intensive care unit using machine learning</b></a><br/><i>Case study for research of Healthcare Machine Learning. </i></li>
+  <li><a href="hhhhttps://datascience0321.tistory.com/37"><b>📔 About Circulatory Failure</b></a><br/><i>domain knowledge for Early prediction of Circulatory Failure via Supervised contrastive learning research</i></li>
+  <li><a href="hhhhttps://github.com/Jeong-Eul/Model-based-Optimization/blob/main/summary.md"><b>📒 [Review] Conservative Objective Models for Effective Offline Model-Based Optimization</b></a><br/><i>For Paper Review and Lab meeting presentation</i></li>
+  <li><a href="hhhhttps://datascience0321.tistory.com/34"><b>📔 Domain Adaptation in Computer Vision: Everything You Need to Know - Korean Version</b></a><br/><i>Posted for 20230806 BOAZ ADV seminar</i></li>
+  <li><a href="hhhttps://github.com/Jeong-Eul/Time2Vec/blob/main/Summary.md"><b>📒 [Review] Time2Vec: Learning a Vector Representation of Time </b></a><br/><i>Paper Review and implementation</i></li>
+  <li><a href="htthhps://github.com/Jeong-Eul/CEHR-BERT/blob/main/Summary.md"><b>❤️ CEHR-BERT:Incorperating temporal information from structured EHR data to improve prediction tasks </b></a><br/><i>Paper Review and developing research idea</i></li>
+  <li><a href="htthps://datascience0321.tistory.com/33"><b>😊 How to resolve MemoryError when creating a pivot table in Python.</b></a><br/><i>error solved. </i></li>
+  <li><a href="hthtps://datascience0321.tistory.com/32"><b>😊 To create a virtual environment for Jupyter Notebook</b></a><br/><i>because I keep forgetting how to do it and need a reminder.</i></li>
+  <li><a href="hhttps://github.com/Jeong-Eul/Data-Mining-Study/blob/main/Paper/BEHRT/REVIEW.md"><b>❤️ BEHRT: Transformer for Electronic Health Records</b></a><br/><i>Case study for research of Healthcare Machine Learning. </i></li>	
+  <li><a href="hhttps://github.com/Jeong-Eul/Data-Mining-Study/blob/Healthcare-research/Paper/circEWS/review.md"><b>❤️ Early prediction of circulatory failure in the intensive care unit using machine learning</b></a><br/><i>Case study for research of Healthcare Machine Learning. </i></li>
 </ul>
 
 <h3>Where to find me</h3>  
