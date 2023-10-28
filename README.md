@@ -74,9 +74,9 @@ currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/219548
       <td>Developing</td>
     </tr>
 	  <tr>
-      <td><a href="https://www.notion.so/4f04574b0ad7447bb97b551ff80e67e8?pvs=4"><b>신규간호사 채용데이터 분석 및 예측모델 개발</b></a></td>
+      <td><a href="https://www.notion.so/4f04574b0ad7447bb97b551ff80e67e8?pvs=4"><b>서울빅데이터개발</b></a></td>
       <td><center>CDSLab, Industrial and Management, Myongji University</center></td>
-      <td>용인세브란스병원</td>
+      <td>서울특별시</td>
       <td>Jan. 2022 ~ Mar. 2022</td>
       <td>Preprocessing, Developing</td>
     </tr>
