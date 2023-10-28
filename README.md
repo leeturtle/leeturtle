@@ -122,9 +122,9 @@ currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/219548
 
 <h3>Where to find me</h3>  
 <p><a href="https://www.instagram.com/ssuhlee/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @ssuhlee</a></p>       
-<p><a href="https://blog.naver.com/wjddmf0321"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Naver_Logotype.svg/1024px-Naver_Logotype.svg.png?uselang=ko" width="50"/> wjddmf0321</a></p>  
-<p><a href="https://datascience0321.tistory.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png" width="70"/> datascience0321</a></p>
+<p><a href="https://blog.naver.com/datashlee"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Naver_Logotype.svg/1024px-Naver_Logotype.svg.png?uselang=ko" width="50"/> datashlee</a></p>  
 <p><a href="https://github.com/leeturtle" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> GitHub </a>
+<!-- <p><a href="https://datascience0321.tistory.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png" width="70"/> datascience0321</a></p>>
 </p>
 
 ------------
