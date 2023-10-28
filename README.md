@@ -121,11 +121,11 @@ currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/219548
 </ul>
 
 <h3>Where to find me</h3>  
-<p><a href="https://www.instagram.com/handmadeoutlier/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @handmadeoutlier</a></p>       
+<p><a href="https://www.instagram.com/ssuhlee/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @ssuhlee</a></p>       
 <p><a href="https://blog.naver.com/wjddmf0321"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Naver_Logotype.svg/1024px-Naver_Logotype.svg.png?uselang=ko" width="50"/> wjddmf0321</a></p>  
 <p><a href="https://datascience0321.tistory.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png" width="70"/> datascience0321</a></p>
-<p><a href="https://github.com/Jeong-Eul" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> GitHub </a>
+<p><a href="https://github.com/leeturtle" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> GitHub </a>
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>2023.04.20</b>!</br>Last refresh: Saturday, 20 Sep, 18:16 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>2023.10.30</b>!</br>Last refresh: Saturday, 30 Oct, 18:16 UTC +09:00<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
