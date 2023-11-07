@@ -112,7 +112,7 @@ currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/219548
     </tr>
 	  <tr>
       <td><a href="hhhhhttps://www.notion.so/a94bda26bcee49b9b4da473cfa31d28b?pvs=4"><b>기계학습 기반 이종데이터 분류 알고리즘 개발</b></a></td>
-      <td>CDSLab, Industrial and Management, Myongji University</td>
+      <td>CDSLab, Industrial and Management, Sungkyunkwan University</td>
       <td>KISTI</td>
       <td>April. 2022 ~ Oct. 2022</td>
       <td>Preprocessing, Developing</td>	  
