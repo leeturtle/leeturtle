@@ -83,7 +83,7 @@ currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/219548
   <tbody>
 <thead align="center">
 	<tr>
-      <td><a href="hhhhttps://github.com/Jeong-Eul/23-2_Research"><b>2023 ABB Hackathon (AI, 빅데이터, 블록체인 해커톤) </b></a></td>
+      <td><a href="hhhhttpsdd://github.com/Jeong-Eul/23-2_Research"><b>2023 ABB Hackathon (AI, 빅데이터, 블록체인 해커톤) </b></a></td>
       <td><center>DAHS, School of Industrial and Management Engineering, Korea University</center></td>
       <td>대구광역시, eICU Collaborative Research Database</td>
       <td>April. 2023 ~ Present</td>
