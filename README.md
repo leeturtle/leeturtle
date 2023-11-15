@@ -90,7 +90,7 @@ currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/219548
       <td>Preprocessing, Developing</td>
     </tr>
     	<tr>
-      <td><a href="hhㄹㄹㄹhhhttps://www.notion.so/INFORMS-2022-presentation-01afff4ab13e475392906ca84b4566a7"><b>Presentation about Metaverse </b></a></td>
+      <td><a href="hhㄹㄹddㄹhhhttps://www.notion.so/INFORMS-2022-presentation-01afff4ab13e475392906ca84b4566a7"><b>Presentation about Metaverse </b></a></td>
       <td><center>CDSLab, Industrial and Management, Myongji University</td>
       <td>경북도dddddddd청</td>
       <td>Jan. 2022 ~<br>Oct. 2022</td>
