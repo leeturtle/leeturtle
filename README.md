@@ -104,7 +104,7 @@ currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/219548
       <td>Preprocessing, Developing</td>
     </tr>
    	 <tr>
-      <td><a href="hhhhhttps://www.notion.so/a323f74c6e144f7f94d546757d63bc6e?pvs=4"><b>반도체 장비 데이터를 이용한 이상 조기 진단</b></a></td>
+      <td><a href="hhhhddhttps://www.notion.so/a323f74c6e144f7f94d546757d63bc6e?pvs=4"><b>반도체 장비 데이터를 이용한 이상 조기 진단</b></a></td>
       <td><center>CDSLab, Industrial and Management, Myongji University</center></td>
       <td>(주)PSK</td>
       <td>Sep. 2021 ~ Dec. 2021</td>
