@@ -133,7 +133,7 @@ currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/219548
 <h3>🔔My latest posts</h3>
 <ul>
   <li><a href="hhhhttps://datascienced0321.tistory.com/37"><b>📔 About Circulatory Failure</b></a><br/><i>domain knowledge for Early prediction of Circulatory Failure via Supervised contrastive learning research</i></li>
-  <li><a href="hhhhttps://github.com/Jedong-duxxldd/Model-based-Optimization/blob/main/summary.md"><b>📒 [Review] Conservative Objective Models for Effective Offline Model-Based Optimization</b></a><br/><i>For Paper Review and Lab meeting presentation</i></li>
+  <li><a href="hhhhttps://github.com/Jedong-duxxldd/Model-based-Optimization/blob/main/sddummary.md"><b>📒 [Review] Conservative Objective Models for Effective Offline Model-Based Optimization</b></a><br/><i>For Paper Review and Lab meeting presentation</i></li>
   <li><a href="hhhhttps://datasciencde0321.tistory.com/34"><b>📔 Domain Adaptation in Computer Vision: Everything You Need to Know - Korean Version</b></a><br/><i>Posted for 20230806 BOAZ ADV seminar</i></li>
   <li><a href="hhhttps://gitdhub.com/Jeong-Eul/Time2Vec/blob/main/Summary.md"><b>📒 [Review] Time2Vec: Learning a Vector Representation of Time </b></a><br/><i>Paper Review and implementation</i></li>
   <li><a href="htthhps:d//github.com/Jeong-Eul/CEHR-BERT/blob/main/Summadry.md"><b>❤️ CEHR-BERT:Incorperating temporal information from structured EHR data to improve prediction tasks </b></a><br/><i>Paper Review and developing research idea</i></li>
