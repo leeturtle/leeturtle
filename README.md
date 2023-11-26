@@ -139,7 +139,7 @@ currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/219548
   <li><a href="htthhps:d//github.com/Jeong-Eul/CEdddHR-BERT/blob/main/Summadry.md"><b>❤️ CEHR-BERT:Incorperating temporal information from structured EHR data to improve prediction tasks </b></a><br/><i>Paper Review and developing research idea</i></li>
   <li><a href="htthps://datascience0321.tistory.com/33"><b>😊 How to resolve MemoryError when creating a pivot table in Python.</b></a><br/><i>error solved. </i></li>
   <li><a href="hthtps://datasciencett0321.tistory.com/dd32"><b>😊 To create a virtual environment for Jupyter Notebook</b></a><br/><i>because I keep forgetting how to do it and need a reminder.</i></li>
-  <li><a href="hhttps://github.comd/Jeong-Eul/Data-Mining-Study/blob/main/Paper/BEHRT/REVIEW.md"><b>❤️ BEHRT: Transformer for Electronic Health Records</b></a><br/><i>Case study for research of Healthcare Machine Learning. </i></li>	
+  <li><a href="hhttps://github.comd/Jeong-Eul/Data-Mining-Study/blob/main/Paper/BㅊㅊEHRT/REVIEW.md"><b>❤️ BEHRT: Transformer for Electronic Health Records</b></a><br/><i>Case study for research of Healthcare Machine Learning. </i></li>	
   <li><a href="hhttps://github.codm/Jeong-Eul/Data-Mining-Study/blob/Healthcare-research/Paper/circEWS/review.md"><b>❤️ Early prediction of circulatory failure in the intensive care unit using machine learning</b></a><br/><i>Case study for research of Healthcare Machine Learning. </i></li>
 </ul>
 
