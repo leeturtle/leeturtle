@@ -132,7 +132,7 @@ currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/219548
        
 <h3>🔔My latest posts</h3>
 <ul>
-  <li><a href="hhhhttps://datascienceddd0321.tistory.com/37"><b>📔 About Circulatory Failure</b></a><br/><i>domain knowledge for Early prediction of Circulatory Failure via Supervised contrastive learning research</i></li>
+  <li><a href="hhhhttps://dccatascienceddd0321.tistory.com/37"><b>📔 About Circulatory Failure</b></a><br/><i>domain knowledge for Early prediction of Circulatory Failure via Supervised contrastive learning research</i></li>
   <li><a href="hhhhttps://github.com/Jedong-duxxldd/Model-based-Optimization/blob/main/sddummary.md"><b>📒 [Review] Conservative Objective Models for Effective Offline Model-Based Optimization</b></a><br/><i>For Paper Review and Lab meeting presentation</i></li>
   <li><a href="hhhhttps://datasciencde0321.tistoddry.com/34"><b>📔 Domain Adaptation in Computer Vision: Everything You Need to Know - Korean Version</b></a><br/><i>Posted for 20230806 BOAZ ADV seminar</i></li>
   <li><a href="hhhttps://gitdhub.com/Jeong-Eul/Time2ttVec/blob/main/Summary.md"><b>📒 [Review] Time2Vec: Learndding a Vector Representation of Time </b></a><br/><i>Paper Review and implementation</i></li>
